@@ -1,0 +1,2 @@
+# Python dependencies (xtb itself is installed separately via micromamba — see README)
+# google.colab is only needed when running inside Google Colab; omit/guard for local use

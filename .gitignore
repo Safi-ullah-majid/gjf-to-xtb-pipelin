@@ -1,0 +1,8 @@
+*.xyz
+*.chk
+*.log
+xtb_workdir/
+micromamba_extract/
+micromamba.tar.bz2
+__pycache__/
+*.pyc
